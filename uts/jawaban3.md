@@ -1,0 +1,1 @@
+Looping adalah sebuah urutan perintah yang secara menerus diulang hingga suatu kondisi tercapai. Kondisi yang dimaksud disini dapat dalam bentuk yang berbeda-beda seperti; mendapatkan data dan merubah data, dan apakah sebuah nilai sudah mencapai jumlah yang ditentukan sedangkan break adalah perintah khusus yang dipakai untuk memaksa sebuah perulangan berhenti sebelum waktunya.

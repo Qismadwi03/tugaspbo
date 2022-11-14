@@ -1,0 +1,4 @@
+Pengertian Paradigma
+Paradigma secara bahasa memiliki makna yaitu kerangka berpikir atau model dalam teori ilmu pengetahuan. Kata paradigma banyak digunakan dalam berbagai disiplin ilmu termasuk pemrograman.Paradigma pemrograman merupakan gaya, klasifikasi, dan pendekatan dalam penulisan program untuk memecahkan masalah dengan menggunakan bahasa pemrograman yang digunakan.
+
+Pemrograman berorientasi objek (Object-Oriented Programming atau yang biasa disingkat OOP) merupakan metode pemrograman yang berorientasi pada objek, di mana pemrograman yang dilakukan merupakan gabungan dari berbagai komponen yang telah ada.
